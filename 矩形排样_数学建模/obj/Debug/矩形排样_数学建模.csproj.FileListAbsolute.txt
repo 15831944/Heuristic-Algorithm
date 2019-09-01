@@ -1,0 +1,6 @@
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\矩形排样_数学建模\bin\Debug\矩形排样_数学建模.exe.config
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\矩形排样_数学建模\bin\Debug\矩形排样_数学建模.exe
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\矩形排样_数学建模\bin\Debug\矩形排样_数学建模.pdb
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\矩形排样_数学建模\obj\Debug\矩形排样_数学建模.csproj.CoreCompileInputs.cache
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\矩形排样_数学建模\obj\Debug\矩形排样_数学建模.exe
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\矩形排样_数学建模\obj\Debug\矩形排样_数学建模.pdb

@@ -1,0 +1,11 @@
+D:\各种文件\编程\GA\木板最优切割方案\bin\Release\木板最优切割方案.exe.config
+D:\各种文件\编程\GA\木板最优切割方案\bin\Release\木板最优切割方案.exe
+D:\各种文件\编程\GA\木板最优切割方案\bin\Release\木板最优切割方案.pdb
+D:\各种文件\编程\GA\木板最优切割方案\obj\Release\木板最优切割方案.csprojAssemblyReference.cache
+D:\各种文件\编程\GA\木板最优切割方案\obj\Release\木板最优切割方案.control.resources
+D:\各种文件\编程\GA\木板最优切割方案\obj\Release\木板最优切割方案.showPicture.resources
+D:\各种文件\编程\GA\木板最优切割方案\obj\Release\木板最优切割方案.Properties.Resources.resources
+D:\各种文件\编程\GA\木板最优切割方案\obj\Release\木板最优切割方案.csproj.GenerateResource.cache
+D:\各种文件\编程\GA\木板最优切割方案\obj\Release\木板最优切割方案.csproj.CoreCompileInputs.cache
+D:\各种文件\编程\GA\木板最优切割方案\obj\Release\木板最优切割方案.exe
+D:\各种文件\编程\GA\木板最优切割方案\obj\Release\木板最优切割方案.pdb

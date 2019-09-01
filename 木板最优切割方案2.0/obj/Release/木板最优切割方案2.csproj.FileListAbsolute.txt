@@ -1,0 +1,11 @@
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\bin\Release\木板最优切割方案.exe.config
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\bin\Release\木板最优切割方案.exe
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\bin\Release\木板最优切割方案.pdb
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\obj\Release\木板最优切割方案2.csprojAssemblyReference.cache
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\obj\Release\木板最优切割方案.control.resources
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\obj\Release\木板最优切割方案.showPicture.resources
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\obj\Release\木板最优切割方案.Properties.Resources.resources
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\obj\Release\木板最优切割方案2.csproj.GenerateResource.cache
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\obj\Release\木板最优切割方案2.csproj.CoreCompileInputs.cache
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\obj\Release\木板最优切割方案.exe
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\木板最优切割方案2.0\obj\Release\木板最优切割方案.pdb

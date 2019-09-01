@@ -1,0 +1,6 @@
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\汽车配件生产排程问题\bin\Debug\汽车配件生产排程问题.exe.config
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\汽车配件生产排程问题\bin\Debug\汽车配件生产排程问题.exe
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\汽车配件生产排程问题\bin\Debug\汽车配件生产排程问题.pdb
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\汽车配件生产排程问题\obj\Debug\汽车配件生产排程问题.csproj.CoreCompileInputs.cache
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\汽车配件生产排程问题\obj\Debug\汽车配件生产排程问题.exe
+D:\Documents\jianhuahuibian\数据结构与算法\数据结构与算法\汽车配件生产排程问题\obj\Debug\汽车配件生产排程问题.pdb
